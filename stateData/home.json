@@ -1,0 +1,165 @@
+{
+  "headline":{
+      "value":"Catering a tu necesidad",
+      "key":"headline",
+      "title":"Headline",
+      "type":"text",
+      "children":false
+  },
+  "subheadline":{
+      "value":"Vive momentos y sabores inolvidables",
+      "key":"subheadline",
+      "title":"Subheadline",
+      "type":"text",
+      "children":false
+  },
+  "carousel":[
+      {
+          "value":"slider1.jpg",
+          "key":"image",
+          "title":"Image",
+          "type":"file",
+          "children":false,
+          "url":"http://localhost:3000/static/assets/slider1.jpg",
+          "imgix_url":"http://localhost:3000/static/assets/slider1.jpg"
+      },
+      {
+          "value":"slider2.jpg",
+          "key":"image",
+          "title":"Image",
+          "type":"file",
+          "children":false,
+          "url":"http://localhost:3000/static/assets/slider2.jpg",
+          "imgix_url":"http://localhost:3000/static/assets/slider2.jpg"
+      },
+      {
+          "value":"slider3.jpg",
+          "key":"image",
+          "title":"Image",
+          "type":"file",
+          "children":false,
+          "url":"http://localhost:3000/static/assets/slider3.jpg",
+          "imgix_url":"http://localhost:3000/static/assets/slider3.jpg"
+      },
+      {
+        "value":"slider4.jpeg",
+        "key":"image",
+        "title":"Image",
+        "type":"file",
+        "children":false,
+        "url":"http://localhost:3000/static/assets/slider4.jpeg",
+        "imgix_url":"http://localhost:3000/static/assets/slider4.jpeg"
+    },{
+        "value":"slider5.jpg",
+        "key":"image",
+        "title":"Image",
+        "type":"file",
+        "children":false,
+        "url":"http://localhost:3000/static/assets/slider5.jpg",
+        "imgix_url":"http://localhost:3000/static/assets/slider5.jpg"
+    }
+  ],
+  "blurbs":[
+      {
+          "value":"Nuestros Productos",
+          "key":"blurb_1",
+          "title":"Blurb 1",
+          "type":"text",
+          "children":[
+            {
+                "value":"cheff-verduras.jpg",
+                "key":"image",
+                "title":"Image",
+                "type":"file",
+                "children":false
+            },
+            {
+                "value":"Seleccionamos la mejor mercaderia que hay en el mercado. Contamos con una excelente instalación, mantención y limpieza para nuestros productos. Conservados en un ambiente propicio y a la temperatura adecuada.",
+                "key":"blurb_content",
+                "title":"Blurb Content",
+                "type":"textarea",
+                "children":false
+            }
+          ]
+      },
+      {
+          "value":"Nuestras Comidas",
+          "key":"blurb_1",
+          "title":"Blurb 1",
+          "type":"text",
+          "children":[
+            {
+                "value":"Chef.jpg",
+                "key":"image",
+                "title":"Image",
+                "type":"file",
+                "children":false
+            },
+            {
+                "value":"Nos dedicamos a buscar que esas experiencias sean diferentes. La comida es uno de los placeres que nunca deja de sorprendernos y compartirla es una ceremonia incomparable. Estamos en la búsqueda constante de nuevos productos y técnicas de cocina para el armado de nuestra carta. Pensar la comida como una forma de agasajar al otro, este es nuestro objetivo.",
+                "key":"blurb_content",
+                "title":"Blurb Content",
+                "type":"textarea",
+                "children":false
+            }
+          ]
+      },
+      {
+          "value":"Nuestros Chef´s",
+          "key":"blurb_1",
+          "title":"Blurb 1",
+          "type":"text",
+          "children":[
+              {
+                  "value":"cocineros-trabajando.jpg",
+                  "key":"image",
+                  "title":"Image",
+                  "type":"file",
+                  "children":false
+              },
+              {
+                  "value":"Cuentan con una formación profesional en varios institutos de gastronomia, cocinaron en restaurantes y hoteles de prestigio, formandose y sumando experiencia, para luego elaborar sus platos.",
+                  "key":"blurb_content",
+                  "title":"Blurb Content",
+                  "type":"textarea",
+                  "children":false
+              }
+          ]
+      }
+  ],
+  "call_to_action_text":{
+      "value":"Comunicate con nuestros profesionales",
+      "key":"call_to_action_text",
+      "title":"Call To Action Text",
+      "type":"text",
+      "children":false
+  },
+  "call_to_action_subtext":{
+      "value":"Realiza tu pedido!",
+      "key":"call_to_action_subtext",
+      "title":"Call To Action Subtext",
+      "type":"text",
+      "children":false
+  },
+  "call_to_action_button_text":{
+      "value":"Contactanos",
+      "key":"call_to_action_button_text",
+      "title":"Call To Action Button Text",
+      "type":"text",
+      "children":false
+  },
+  "call_to_action_button_link":{
+      "value":"/contact",
+      "key":"call_to_action_button_link",
+      "title":"Call To Action Button Link",
+      "type":"text",
+      "children":false
+  },
+  "seo_description":{
+      "value":"This is the SEO description.  Keep it short.",
+      "key":"seo_description",
+      "title":"SEO Description",
+      "type":"textarea",
+      "children":false
+  }
+}

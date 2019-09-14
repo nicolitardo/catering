@@ -1,0 +1,39 @@
+{
+  "_id":"5ab90fbb2ed5483c2b60fc54",
+  "bucket":"5ab90e70d64caf1649f3cee7",
+  "slug":"social",
+  "title":"Social",
+  "content":"",
+  "metafields":[
+      {
+          "value":"https://www.facebook.com",
+          "key":"facebook",
+          "title":"Facebook",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"https://twitter.com",
+          "key":"twitter",
+          "title":"Twitter",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"https://plus.google.com",
+          "key":"google_plus",
+          "title":"Google Plus",
+          "type":"text",
+          "children":false
+      }
+  ],
+  "type_slug":"globals",
+  "created":"2018-03-26T15:20:27.340Z",
+  "created_at":"2018-03-26T15:20:27.340Z",
+  "status":"published",
+  "metadata":{
+      "facebook":"https://www.facebook.com",
+      "twitter":"https://twitter.com",
+      "google_plus":"https://plus.google.com"
+  }
+}

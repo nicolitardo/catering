@@ -1,0 +1,23 @@
+{
+  "_id":"5ab90fbb2ed5483c2b60fc57",
+  "bucket":"5ab90e70d64caf1649f3cee7",
+  "slug":"footer",
+  "title":"Footer",
+  "content":"",
+  "metafields":[
+      {
+          "value":"Blishem",
+          "key":"company_title",
+          "title":"Company Title",
+          "type":"text",
+          "children":false
+      }
+  ],
+  "type_slug":"globals",
+  "created":"2018-03-26T15:20:27.343Z",
+  "created_at":"2018-03-26T15:20:27.343Z",
+  "status":"published",
+  "metadata":{
+      "company_title":"Blishem"
+  }
+}

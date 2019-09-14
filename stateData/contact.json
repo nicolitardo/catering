@@ -1,0 +1,32 @@
+{
+  "_id":"5ab90fbb2ed5483c2b60fc50",
+  "bucket":"5ab90e70d64caf1649f3cee7",
+  "slug":"contact",
+  "title":"Contactate",
+  "content":"<p>¿Deseas un presupuesto personalizado o realizarnos una consulta sobre los menús que tenemos?<br>Podés enviarnos el siguiente formulario con los datos de tu evento.</p>",
+  "metafields":[
+      {
+          "value":"This is the SEO description.  Keep it short.",
+          "key":"seo_description",
+          "title":"SEO Description",
+          "type":"textarea",
+          "children":false
+      },
+      {
+          "value":"Listo!  El encargado de los pedidos se estara comunicando próximamente!",
+          "key":"contact_form_success_message",
+          "title":"Contact Form Success Message",
+          "type":"textarea",
+          "children":false
+      }
+  ],
+  "type_slug":"pages",
+  "created":"2018-03-26T15:20:27.336Z",
+  "created_at":"2018-03-26T15:20:27.336Z",
+  "order":3,
+  "status":"published",
+  "metadata":{
+      "seo_description":"This is the SEO description.  Keep it short.",
+      "contact_form_success_message":"Listo!  El encargado de los pedidos se estara comunicando próximamente!"
+  }
+}

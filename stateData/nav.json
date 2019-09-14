@@ -1,0 +1,93 @@
+{
+  "slug":"nav",
+  "title":"Nav",
+  "content":"",
+  "metafields":[
+      {
+          "value":"/",
+          "key":"home",
+          "title":"Inicio",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"/about-us",
+          "key":"about_us",
+          "title":"Nuestra Empresa",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"",
+          "key":"services",
+          "title":"Services",
+          "type":"text",
+          "children":[
+              {
+                  "value":"/deciding-on-care",
+                  "key":"deciding_on_care",
+                  "title":"Deciding on Care",
+                  "type":"text",
+                  "children":false
+              },
+              {
+                  "value":"/specialty-centers-and-programs",
+                  "key":"specialty_centers_and_programs",
+                  "title":"Specialty Centers and Programs",
+                  "type":"text",
+                  "children":false
+              }
+          ]
+      },
+      {
+          "value":"",
+          "key":"areas_served",
+          "title":"Areas Served",
+          "type":"text",
+          "children":[
+              {
+                  "value":"new-york-medical-services",
+                  "key":"new_york",
+                  "title":"New York",
+                  "type":"text",
+                  "children":false
+              },
+              {
+                  "value":"los-angeles-medical-services",
+                  "key":"los_angeles",
+                  "title":"Los Angeles",
+                  "type":"text",
+                  "children":false
+              },
+              {
+                  "value":"chicago-medical-services",
+                  "key":"chicago",
+                  "title":"Chicago",
+                  "type":"text",
+                  "children":false
+              }
+          ]
+      },
+      {
+          "value":"/blog",
+          "key":"blog",
+          "title":"Blog",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"/faqs",
+          "key":"faqs",
+          "title":"FAQs",
+          "type":"text",
+          "children":false
+      },
+      {
+          "value":"/contact",
+          "key":"contact_us",
+          "title":"Contactanos",
+          "type":"text",
+          "children":false
+      }
+  ]
+}

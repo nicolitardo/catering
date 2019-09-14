@@ -1,0 +1,33 @@
+{
+  "_id":"5ab90fbb2ed5483c2b60fc49",
+  "bucket":"5ab90e70d64caf1649f3cee7",
+  "slug":"contact-form",
+  "title":"Contact Form",
+  "content":"",
+  "metafields":[
+      {
+          "edit":1,
+          "value":"tony@cosmicjs.com",
+          "key":"to",
+          "title":"To",
+          "type":"text",
+          "children":null
+      },
+      {
+          "edit":1,
+          "value":"A new form submission on your website",
+          "key":"subject",
+          "title":"Subject",
+          "type":"text",
+          "children":null
+      }
+  ],
+  "type_slug":"globals",
+  "created":"2018-03-26T15:20:27.327Z",
+  "created_at":"2018-03-26T15:20:27.327Z",
+  "status":null,
+  "metadata":{
+      "to":"tony@cosmicjs.com",
+      "subject":"A new form submission on your website"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title":"FAQs",
+  "faqs":[
+      {
+          "value":"Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus.",
+          "key":"how_long_does_a_procedure_take",
+          "title":"How long does a procedure take?",
+          "type":"textarea",
+          "children":false
+      },
+      {
+          "value":"Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus.",
+          "key":"what_insurance_providers_do_you_accept",
+          "title":"What insurance providers do you accept?",
+          "type":"textarea",
+          "children":false
+      },
+      {
+          "value":"Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus.",
+          "key":"how_do_i_know_if_i_need_treatment",
+          "title":"How do I know if I need treatment?",
+          "type":"textarea",
+          "children":false
+      }
+  ],
+  "seo_description":false
+}
